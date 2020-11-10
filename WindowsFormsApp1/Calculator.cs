@@ -7,7 +7,7 @@ namespace Calculator
     public partial class Calculator : Form
     {
         /// <summary>
-        /// Title: Matriz exercise
+        /// Title: Calculator exercise
         /// Developer: Juan Carlos Cubillos Granados
         /// </summary>
         /// 
