@@ -6,6 +6,12 @@ namespace Calculator
 {
     public partial class Calculator : Form
     {
+        /// <summary>
+        /// Title: Matriz exercise
+        /// Developer: Juan Carlos Cubillos Granados
+        /// </summary>
+        /// 
+
         #region GlobalProperties
         bool operation = false;
         bool finalRest = false;
